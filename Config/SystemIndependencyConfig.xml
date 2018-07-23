@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+    <config>
+	    <ProjectName>ContractAccessCX</ProjectName>
+        <AUTPath>https://test.salesforce.com/</AUTPath>
+		<LocalBrowserName>Chrome</LocalBrowserName>
+		<CaptureScreenShot>ALL</CaptureScreenShot>
+		<RunReference>Iteration 1</RunReference>
+		<RunReferenceFlag>Yes</RunReferenceFlag>
+		<ReportsDBJDBCDriver>com.mysql.jdbc.Driver</ReportsDBJDBCDriver>
+		<ReportsDBURL>jdbc:mysql://172.17.1.103:3306/</ReportsDBURL>
+		<ReportsDBName>catrunhistory</ReportsDBName>
+		<ReportsDBUserName>sa</ReportsDBUserName>
+		<ReportsDBPassword>Changep0nd</ReportsDBPassword>
+    </config>
